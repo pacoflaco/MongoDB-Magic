@@ -1,6 +1,6 @@
 # MongoDB Operations: A Comprehensive Guide
 
-![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg)
+![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongodb.png/1280px-Mongodb.png?20180423182709)
 
 A collection of MongoDB scripts to demonstrate various operations with MongoDB. This repository covers setup, reading, updating, deleting, aggregation, indexing, and administrative commands.
 

